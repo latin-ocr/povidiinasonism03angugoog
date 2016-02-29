@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasonism03angugoog_0508.png"; bbox 0 0 3008 5160; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 290 212 1464 479">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 290 212 1464 479">
+     <span class='ocr_line' id='line_1_1' title="bbox 372 212 1078 321; baseline 0.003 -24"><span class='ocrx_word' id='word_1_1' title='bbox 372 212 455 321; x_wconf 74' lang='lat'><em>428</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 706 238 742 297; x_wconf 73' lang='lat' dir='ltr'><em>P.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 762 238 1078 301; x_wconf 72' lang='lat' dir='ltr'><strong>omnmouts</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 290 357 1464 479; baseline 0 -40"><span class='ocrx_word' id='word_1_4' title='bbox 290 357 464 479; x_wconf 59' lang='lat' dir='ltr'><em>Talibus</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 481 359 687 469; x_wconf 79' lang='lat' dir='ltr'><em>exemplis</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 702 361 886 443; x_wconf 76' lang='lat' dir='ltr'><em>mom&#39;tae</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 902 390 1009 447; x_wconf 83' lang='lat' dir='ltr'><em>nova</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1027 390 1160 445; x_wconf 82' lang='lat' dir='ltr'><em>sacra</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1170 360 1464 470; x_wconf 74' lang='lat' dir='ltr'><strong><em>smquentant.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1508 5160">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1508 5160">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1508 5160; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1508 5160; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
